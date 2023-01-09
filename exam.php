@@ -32,7 +32,7 @@
                 <th scope="col">asignatura</th>
                 <th scope="col">fecha</th>
                 <th scope="col">created at</th>
-                <th scope="col">sctions</th>
+                <th scope="col">actions</th>
             </tr>
         </thead>
         <tbody>
