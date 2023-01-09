@@ -49,7 +49,7 @@
 <td><?php echo $row['fecha.creacion'];?></td>
 <td>
 
-<a href= "eliminar.php?id= <?php$row['id'] ?>" class="btn btn-primary active" role="button">eliminar</a>
+<a href= "eliminar.php?id=<?php echo $row['id']?>" class="btn btn-primary active" role="button">eliminar</a>
 <a href="#" class="btn btn-primary active" role="button">editar</a>
 </td>
 </tr>
